@@ -9,25 +9,27 @@ body {
 }
 
 h {
-   font: Noto-Sans;
-   background-color: black
-   foreground: rel;
+    font: Noto-Sans;
+    background-color: black
+    foreground: rel;
 
 
+}
+
+p {
+    background-color: #
+    
 }
 
 div {
-    font: Calibri;
-    background-color: #3399FF;
-    div.solid {border-style: solid;}
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-left: 30px;
-    padding-bottom: 50px;
+     font: Calibri;
+     background-color: #3399FF;
+     div.solid {border-style: solid;}
+     padding-top: 50px;
+     padding-right: 30px;
+     padding-left: 30px;
+     padding-bottom: 50px;
 }
-
-
-
 
 
 
