@@ -1,14 +1,34 @@
 body {
-    
+    background-color: #FFFFFF;
     font: Copperplate;
     align: center;
+    font-color: 
 
+
+        
 }
 
 h {
-
-
+   font: Noto-Sans;
+   background-color: black
+   foreground: rel;
 
 
 }
+
+div {
+    font: Calibri;
+    background-color: #3399FF
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
 <!---&--->
