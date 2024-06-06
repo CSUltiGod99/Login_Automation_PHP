@@ -18,7 +18,8 @@ h {
 
 div {
     font: Calibri;
-    background-color: #3399FF
+    background-color: #3399FF;
+    div.solid {border-style: solid;}
     padding-top: 50px;
     padding-right: 30px;
     padding-left: 30px;
