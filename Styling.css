@@ -2,16 +2,11 @@ body {
     background-color: #FFFFFF;
     font: Copperplate;
     align: center;
-    font-color: 
-
-
-        
 }
 
 h {
     font: Noto-Sans;
-    background-color: black
-    foreground: rel;
+    background-color: black;
 }
 
 p {
@@ -30,6 +25,11 @@ div {
 }
 
 link {
+
+}
+
+img {
+    
 
 }
 
