@@ -1,15 +1,17 @@
 // PHP - Make a child script for a friend suggestion page:
 
 // source:
-$text1 = "
+function FriendSuggestion()
+{
+    $text1 = " ";
 
-$radiobutton
-$
-$
-$
-$
-$
-
-
+    $radiobutton
+    $
+    $
+    $
+    if():
+    {
+       $
+    }
 
 
