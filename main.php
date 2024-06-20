@@ -15,16 +15,8 @@ if($c > $1)
    echo $4 * $4;
 }
 
-
-
-
-
-
-
-
-
-
-
+// At the Right moment, in the right time.. 
+// .. I the Lord will make it happen.
 
 
 
