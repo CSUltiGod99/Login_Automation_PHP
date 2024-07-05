@@ -1,3 +1,4 @@
+// PHP - Create a Friend Suggestions Page:
 // PHP - Make a child script for a friend suggestion page:
 
 // source:
@@ -5,9 +6,18 @@ function FriendSuggestion()
 {
     $text1 = " ";
 
-    $radiobutton
+    $HomeradioButton = "Back;
+    $textHomePage = "Home";
+    $homePageValue = "Home";
+
+    $NewsradioButton = "News";
+    $
+
     $
     $
+    $
+    $
+
 
 // Friends that are recommended by the user using friends_of_friends script:
     $recommend_friend_text3 = "Shelly Shea";
