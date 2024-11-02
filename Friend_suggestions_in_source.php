@@ -10,7 +10,9 @@ function FriendSuggestion()
     $textHomePage = "Home";
     $homePageValue = "Home";
 
+// News:
     $NewsradioButton = "News";
+    $NewsHomePage = "News Home";
     $
 
     $
